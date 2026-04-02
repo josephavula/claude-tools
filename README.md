@@ -28,7 +28,7 @@ Each tool has its own `README.md` with setup instructions. The general pattern:
 ## Built with
 
 - [Claude Code](https://claude.ai/code) — CLI for Claude
-- [Claude Chrome Extension](https://chromewebstore.google.com/detail/claude/pmaeehhfomkghjfbblmeonlendoibenb) — gives Claude access to a live Chrome session
+- [Claude Chrome Extension](https://chromewebstore.google.com/detail/claude/fcoeoabgfenejglbffodgkkbkcdhcgfn) — gives Claude access to a live Chrome session
 
 ---
 

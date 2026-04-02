@@ -32,7 +32,7 @@ One `.md` file per person with:
 
 | Requirement | Notes |
 |---|---|
-| [Claude Chrome Extension](https://chromewebstore.google.com/detail/claude/pmaeehhfomkghjfbblmeonlendoibenb) | Gives Claude access to your live Chrome session. Install it, then enable browser access in Claude.ai settings. |
+| [Claude Chrome Extension](https://chromewebstore.google.com/detail/claude/fcoeoabgfenejglbffodgkkbkcdhcgfn) | Gives Claude access to your live Chrome session. Install it, then enable browser access in Claude.ai settings. |
 | LinkedIn account | **Use a burner/secondary account.** LinkedIn detects and bans automated browsing. Don't risk your main account. |
 | Apollo.io account | Free tier works. Exposes: job title, company, LinkedIn URL, and sometimes email. Paid tiers add direct phone and verified email. |
 
@@ -40,7 +40,7 @@ One `.md` file per person with:
 
 ## Setup
 
-1. Install the [Claude Chrome Extension](https://chromewebstore.google.com/detail/claude/pmaeehhfomkghjfbblmeonlendoibenb) and enable browser access in Claude.ai
+1. Install the [Claude Chrome Extension](https://chromewebstore.google.com/detail/claude/fcoeoabgfenejglbffodgkkbkcdhcgfn) and enable browser access in Claude.ai
 2. Open Chrome with a dedicated profile (not your default)
 3. Log into LinkedIn (burner account) in that profile
 4. Log into Apollo.io in that profile
