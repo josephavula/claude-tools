@@ -1,47 +1,52 @@
-# Jensen Huang — CEO & Co-Founder, NVIDIA
+# Joseph Avula — Intern (Fusion AI Agent Developer), Intellinum
 
 ## Quick Snapshot
 | | |
 |---|---|
-| **Title** | CEO & Co-Founder |
-| **Company** | NVIDIA Corporation |
-| **Location** | Santa Clara, CA |
-| **Email** | Not available (executive — no Apollo data) |
-| **Phone** | Not available |
-| **LinkedIn** | [linkedin.com/in/jensenhuang](https://www.linkedin.com/in/jensenhuang/) |
+| **Title** | Intern – Fusion AI Agent Developer |
+| **Company** | Intellinum |
+| **Location** | United States (Dallas, TX area) |
+| **Email** | joseph.avula@intellinum.com |
+| **Phone** | Not available (locked on Apollo) |
+| **LinkedIn** | [linkedin.com/in/josephavula](https://www.linkedin.com/in/josephavula/) |
 
 ---
 
 ## About
-Jensen Huang co-founded NVIDIA in 1993 and has served as CEO ever since — one of the longest-tenured tech CEOs in Silicon Valley. He holds a BS in Electrical Engineering from Oregon State University and an MSEE from Stanford. Under his leadership, NVIDIA evolved from a graphics card company into the dominant infrastructure provider for AI compute. As of 2024, NVIDIA's market cap has exceeded $2 trillion, driven almost entirely by GPU demand for AI training workloads.
+UT Dallas MS Supply Chain candidate (graduating Dec 2026) with a background in entrepreneurship and international business operations. Currently interning at Intellinum as a Fusion AI Agent Developer, combining his SCM foundation with hands-on Agentic AI work. 500+ LinkedIn connections, 1,082 followers, LinkedIn Premium member.
+
+Runs a public LinkedIn series called **"Unbreaking the Chain"** — a multi-part breakdown of modern supply chain, covering demand/supply planning, sourcing, traceability, digital twins, and control towers. Posts are practical, data-driven, and consistently get engagement (10–30+ reactions per post).
 
 ---
 
 ## Key Strengths
-- **Long-term product vision** — bet on GPU computing for general-purpose AI before the market recognized its potential
-- **Platform thinking** — CUDA ecosystem created deep lock-in that competitors have struggled to replicate for over a decade
-- **Public communicator** — keynotes at GTC are consistently cited as among the most technically credible CEO presentations in the industry
+- **Supply Chain + AI overlap** — actively building at the intersection of SCM and Agentic AI, not just talking about it
+- **Content creation** — consistent, high-quality LinkedIn presence shows he can communicate technical topics clearly
+- **Entrepreneurial background** — international business experience before pivoting to SCM and tech
+- **Technical traction** — internship at Intellinum (Oracle SCM/WMS specialist firm) suggests real hands-on Oracle supply chain exposure
 
 ---
 
 ## How to Network With Him
-Jensen is not a realistic cold outreach target, but he's highly active on LinkedIn — posts regularly about AI infrastructure, NVIDIA earnings, and technology trends. Engaging genuinely on his posts is the highest-leverage public touchpoint. For anyone in AI infrastructure, chip design, or enterprise GPU procurement: his keynotes and interviews are required listening and useful reference material for any outreach to NVIDIA's sales or partnership teams.
+His content series is the easiest entry point. Engage on a specific "Unbreaking the Chain" post with a genuine reaction or question — he responds to comments. Topics he cares about: Agentic AI in procurement, supply planning tech stacks, digital twins, and supply chain visibility tools (FourKites, RELEX, Kinaxis Maestro, Coupa, Circularise).
+
+Best angle: peer-to-peer or learning-focused. He's a student building in public — he responds well to others doing the same. Don't pitch cold. Show shared interest first.
 
 ---
 
 ## Notable Context
-- Posts frequently about AI compute demand, sovereign AI infrastructure, and the "next industrial revolution" framing
-- No direct contact info available on Apollo — standard for executives of this profile
-- Apollo stage: N/A (public figure, not a cold prospect)
-- Best entry points into NVIDIA for actual outreach: enterprise sales team, developer relations, or NVIDIA Inception (startup program)
+- Intellinum is an Oracle Gold Partner focused on WMS/SCM Cloud and mobile supply chain execution — niche firm, strong Oracle specialization
+- His internship title (Fusion AI Agent Developer) suggests Intellinum is actively building AI agents on top of Oracle Fusion — relevant if you're tracking AI adoption in enterprise supply chain
+- No phone number available on Apollo; email (joseph.avula@intellinum.com) is confirmed primary business contact
+- Apollo stage: Cold (no prior outreach logged)
 
 ---
 
 ## Sources
-- LinkedIn: [linkedin.com/in/jensenhuang](https://www.linkedin.com/in/jensenhuang/)
-- Apollo: No contact record found
-- NVIDIA: [nvidia.com/en-us/about-nvidia/executive-team/](https://www.nvidia.com/en-us/about-nvidia/executive-team/)
+- LinkedIn: [linkedin.com/in/josephavula](https://www.linkedin.com/in/josephavula/)
+- Apollo: [app.apollo.io/#/contacts/69cde02026fd1e00218b030e](https://app.apollo.io/#/contacts/69cde02026fd1e00218b030e)
+- Intellinum: [intellinum.com](https://www.intellinum.com)
 
 ---
 
-*This is a sample output generated to demonstrate the skill's format. All information is publicly available.*
+*This is a real output generated by running the skill on the tool's author. All information is from public sources.*

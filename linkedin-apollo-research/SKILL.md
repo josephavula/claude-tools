@@ -62,7 +62,7 @@ See `examples/sample_output.md` for a full example.
 
 ## Requirements
 
-**Claude Chrome Extension** — This skill requires Claude to have access to your live Chrome browser session. The extension is called *Claude* (by Anthropic) and is available in the Chrome Web Store. Once installed, open Claude.ai in your browser and enable "Computer use" / browser access in the settings. This is what lets Claude navigate LinkedIn and Apollo on your behalf.
+**Claude Chrome Extension** — This skill requires Claude to have access to your live Chrome browser session. The extension is called *Claude* (by Anthropic) and is available in the Chrome Web Store. Once installed in Chrome, open the Claude desktop app and enable browser access in settings. The extension connects the desktop app to your Chrome session — you run everything from the desktop app, not from a browser tab.
 
 **Apollo.io Free Tier** — Free tier exposes: job title, company, LinkedIn URL, and sometimes email. Paid tiers expose direct phone numbers, verified emails, and full career history. This skill works on free — you'll just get less contact data.
 
@@ -94,7 +94,7 @@ Before running the agent prompt, confirm:
 
 ## Agent Prompt
 
-Paste this into Claude Cowork. Fill in the bracketed variables. No file attachment needed — the format template is embedded below.
+Paste this into the Claude desktop app. Fill in the bracketed variables. No file attachment needed — the format template is embedded below.
 
 ```
 You have access to my Chrome browser. LinkedIn and Apollo.io are already logged in.

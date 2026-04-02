@@ -32,7 +32,7 @@ One `.md` file per person with:
 
 | Requirement | Notes |
 |---|---|
-| [Claude Chrome Extension](https://chromewebstore.google.com/detail/claude/fcoeoabgfenejglbffodgkkbkcdhcgfn) | Gives Claude access to your live Chrome session. Install it, then enable browser access in Claude.ai settings. |
+| [Claude Chrome Extension](https://chromewebstore.google.com/detail/claude/fcoeoabgfenejglbffodgkkbkcdhcgfn) | Gives Claude access to your live Chrome session. Install it in Chrome, then enable browser access in the Claude desktop app settings. |
 | LinkedIn account | **Use a burner/secondary account.** LinkedIn detects and bans automated browsing. Don't risk your main account. |
 | Apollo.io account | Free tier works. Exposes: job title, company, LinkedIn URL, and sometimes email. Paid tiers add direct phone and verified email. |
 
@@ -40,17 +40,19 @@ One `.md` file per person with:
 
 ## Setup
 
-1. Install the [Claude Chrome Extension](https://chromewebstore.google.com/detail/claude/fcoeoabgfenejglbffodgkkbkcdhcgfn) and enable browser access in Claude.ai
-2. Open Chrome with a dedicated profile (not your default)
-3. Log into LinkedIn (burner account) in that profile
-4. Log into Apollo.io in that profile
-5. Open Claude Cowork (claude.ai) in the same profile
+1. Install the Claude desktop app (this is your interface — not a browser tab)
+2. Install the [Claude Chrome Extension](https://chromewebstore.google.com/detail/claude/fcoeoabgfenejglbffodgkkbkcdhcgfn) in Chrome and enable browser access in desktop app settings
+3. Open Chrome with a dedicated profile (not your default)
+4. Log into LinkedIn (burner account) in that Chrome profile
+5. Log into Apollo.io in that Chrome profile
+
+> **Note for Mac users:** Open claude.ai in the Claude desktop app, not in Safari or Chrome. The extension connects the desktop app to your Chrome browser — you run the skill from inside the desktop app.
 
 ---
 
 ## How to Use
 
-1. Copy the contents of `SKILL.md` into your Claude Cowork session
+1. Copy the contents of `SKILL.md` into the Claude desktop app
 2. When prompted, fill in:
    - `TARGET_COMPANY` — company name (e.g., `Daybreak AI`)
    - `LINKEDIN_COMPANY_URL` — the company's LinkedIn URL (e.g., `https://www.linkedin.com/company/daybreak-ai`)
