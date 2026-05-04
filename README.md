@@ -11,6 +11,7 @@ Each folder is a standalone tool. Clone the whole repo or grab just the one you 
 | Tool | What it does |
 |---|---|
 | [linkedin-apollo-research](./linkedin-apollo-research/) | Automates building structured contact profiles for employees at a target company using LinkedIn + Apollo.io |
+| [yt-transcripts](./yt-transcripts/) | Pulls transcripts from one or more YouTube videos and writes one minimal markdown file per video |
 
 ---
 
